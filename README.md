@@ -49,6 +49,3 @@ Tiempos de ejecución obtenidos:
 ✅ Creación de listas con datos aleatorios, procesados en cada lenguaje.
 ✅ Medición y almacenamiento de tiempos de ejecución, mostrando resultados finales.
 
-5️⃣ Conclusión y Optimización
-📌 Python sobresale en velocidad, JavaScript es eficiente, mientras que Java es más estable para procesos estructurados.
-📌 Se recomienda optimizar Java con StringBuilder y reducir conversiones en JavaScript para mejorar aún más los tiempos.
