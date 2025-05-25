@@ -54,6 +54,8 @@ for index, (n, k) in enumerate(zip(n_values, k_values)):
         print(f"    Cuerpo: {nodo.cuerpo}")
         print(f"    Firma Digital: {nodo.firma_digital}")
         print("-" * 40)
+    input("\n enter")
+
 
 print("\n=== Resumen de tiempos ===")
 for tiempo in tiempos_ejecucion:
